@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<body>
+    <referenceContainer name="content">
+        <block class="Success\Message\Block\Thankyou" name="order.details.success" template="Success_Message::order/success.phtml" after="-">        	
+        </block>
+    </referenceContainer>
+
+</body>
